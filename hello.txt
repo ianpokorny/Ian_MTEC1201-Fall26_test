@@ -1,2 +1,2 @@
 HELLO WORLD, this is my 1st github push!
-my name is mud
+my name is ian
